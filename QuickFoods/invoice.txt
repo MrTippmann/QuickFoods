@@ -1,0 +1,22 @@
+Order number 1234
+Customer: Chris Kilgour
+Email: chrisk@gmail.com
+Phone number: 0839621663
+Loacation:  Springbok
+
+You have ordered the following from Pizza Perfect in Springbok:
+
+2 x Meat Lovers Pizza (R130.00)
+1 x Veg Pizza (R90.00)
+1 x Hawaian Pizza (R80.00)
+
+Special instructions: N/A
+
+Total: R430.00
+
+Johan Hoffmanis the nearset to the restaurant and so they will be delivering your order to you at:
+
+14 Old Street
+Somerset
+
+If you need to contact the restaurant, their number is 0728956427
