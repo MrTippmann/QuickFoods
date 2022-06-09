@@ -10,4 +10,4 @@ Program that allows the user to enter information in order to generate a invoice
 2. Click on clone a repoistory from the internet. 
 3. Then add the URL of this repository.
 
-After this you should of a local clone of the repository and then if you would like to use this webpage for yourself then you can just edit the HTML code to your infomation and change the picture to a picture of yourself. 
+After this you should of a local clone of the repository and then you can make any necessary changes
